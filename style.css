@@ -14,14 +14,14 @@
 }
 .todo-list {
     width: 100%;
-    max-width: 540px;
+    max-width: 520px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.5);
     margin: 80px auto 20px;
-    padding: 40px 30px 70px;
+    padding: 30px 30px 60px;
     border-radius: 50px;
     backdrop-filter: blur(10px);
-    margin-top: 70px;
+    margin-top: 60px;
 }
 .todo-list h2 {
     text-align: center;
