@@ -18,9 +18,10 @@
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.5);
     margin: 80px auto 20px;
-    padding: 30px 30px 60px;
+    padding: 30px 30px 50px;
     border-radius: 50px;
     backdrop-filter: blur(10px);
+
 }
 .todo-list h2 {
     text-align: center;
@@ -57,7 +58,6 @@ input {
     border-radius: 50px;
     font-weight: 700;
     font-family: 'Poppins', cursive;
-
 }
 button {
     border: 2px solid #ff5945;
@@ -98,8 +98,8 @@ ul li::before {
 #list {
     position: relative;
     margin-top: 20px;
-    height: 50px;
     overflow-y: auto;
+    height: 50px;
     padding-right: 15px;
 }
 ::-webkit-scrollbar-track {
