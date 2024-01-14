@@ -21,7 +21,6 @@
     padding: 30px 30px 60px;
     border-radius: 50px;
     backdrop-filter: blur(10px);
-    height: 100%;
 }
 .todo-list h2 {
     text-align: center;
@@ -99,7 +98,7 @@ ul li::before {
 #list {
     position: relative;
     margin-top: 20px;
-    height: 100px;
+    height: 80px;
     overflow-y: auto;
     padding-right: 15px;
 }
