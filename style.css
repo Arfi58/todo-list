@@ -99,7 +99,7 @@ ul li::before {
     position: relative;
     margin-top: 20px;
     overflow-y: auto;
-    height: 50px;
+    height: 200px;
     padding-right: 15px;
 }
 ::-webkit-scrollbar-track {
