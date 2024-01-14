@@ -99,7 +99,7 @@ ul li::before {
 #list {
     position: relative;
     margin-top: 20px;
-    height: 200px;
+    height: 100px;
     overflow-y: auto;
     padding-right: 15px;
 }
