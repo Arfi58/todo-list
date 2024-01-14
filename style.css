@@ -14,14 +14,14 @@
 }
 .todo-list {
     width: 100%;
-    max-width: 520px;
+    max-width: 540px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.5);
     margin: 80px auto 20px;
     padding: 30px 30px 60px;
     border-radius: 50px;
     backdrop-filter: blur(10px);
-    margin-top: 60px;
+    height: 100%;
 }
 .todo-list h2 {
     text-align: center;
@@ -47,6 +47,7 @@
     padding: 20px;
     text-align: center;
     position: relative;
+    display: flex;
 }
 input {
     border: none;
@@ -98,7 +99,7 @@ ul li::before {
 #list {
     position: relative;
     margin-top: 20px;
-    height: 300px;
+    height: 200px;
     overflow-y: auto;
     padding-right: 15px;
 }
